@@ -1,0 +1,6 @@
+Having Spring boot+spring mvc+jpa+hibernate+spring securtiy+mysql
++thymleaf+server port is 8888
+admin user: mukesh/m123
+normal user: tarun/t123
+
+refer link: https://www.concretepage.com/spring-boot/spring-boot-mvc-security-custom-login-and-logout-thymeleaf-csrf-mysql-database-jpa-hibernate-example

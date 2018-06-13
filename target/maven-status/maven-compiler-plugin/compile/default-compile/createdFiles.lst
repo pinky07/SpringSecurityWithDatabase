@@ -1,0 +1,6 @@
+templates\403.html
+templates\articles.html
+static\css\styles.css
+templates\custom-login.html
+application.properties
+static\favicon.ico
